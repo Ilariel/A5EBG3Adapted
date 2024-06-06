@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <!--Comment is used as index to copy to-->
+                    <attribute id="Comment" type="LSString" value="0" />
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_ChillTouch;Projectile_EldritchBlast;Target_Friends;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_TrueStrike" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+

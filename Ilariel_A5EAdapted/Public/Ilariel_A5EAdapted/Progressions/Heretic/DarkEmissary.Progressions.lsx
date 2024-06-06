@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="ILDarkEmissary"/> 
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0f0516b3-d5c4-4c53-86fb-bd2b5208f1b0"/>
+                    <attribute id="UUID" type="guid" value="9eab6a72-85f7-4afc-889d-086b6bc29d4e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+

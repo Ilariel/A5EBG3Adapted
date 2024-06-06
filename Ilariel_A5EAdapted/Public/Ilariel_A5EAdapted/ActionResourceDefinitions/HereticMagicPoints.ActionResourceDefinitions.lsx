@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbcbc78e0g8098g40bfg8c45gef2b31d55fff" version="1"/> 
+                    <attribute id="Description" type="TranslatedString" handle="hb3fc9621ge26dg4243g91c8g9665be2122ee" version="1"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="ILHereticPoints"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="c818df4a-4a65-4500-9411-f45555555555"/> UUID for the Resource, give it a new one
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/> Would this resource be used at different power levels
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

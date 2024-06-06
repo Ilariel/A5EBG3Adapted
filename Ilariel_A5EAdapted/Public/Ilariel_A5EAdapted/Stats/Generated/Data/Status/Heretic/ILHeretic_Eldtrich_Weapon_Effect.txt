@@ -1,0 +1,14 @@
+new entry "ILHERETIC_ELDTRICH_WEAPON"
+type "StatusData"
+data "StatusType" "BOOST"
+// Shillelagh
+data "DisplayName" "h20a7843cg4e70g46d8g84e4g2b11a0e90705;2"
+// Creature's weapon is magical and deals [1]. <LSTag Tooltip="AttackRoll">Attack Rolls</LSTag> use the wielder's <LSTag Tooltip="SpellcastingAbilityModifier">Spellcasting Ability Modifier</LSTag>.
+data "Description" "h1fa80c6ag5f28g46d2gaaafg57677cc5bf0f;10"
+data "DescriptionParams" "DealDamage(1d10, Force)"
+data "Icon" "Spell_Abjuration_Transmutation_Shillelagh"
+data "StackId" "ILHERETIC_ELDTRICH_WEAPON"
+data "StackPriority" "0"
+data "Boosts" "WeaponProperty(Magical);WeaponDamageDieOverride(1d8);WeaponAttackRollAbilityOverride(SpellCastingAbility);Attribute(InventoryBound)"
+data "StatusGroups" "SG_RemoveOnRespec"
+data "StatusEffect" "c4007bf4-09db-4aa4-99e5-6ff1f8693460"

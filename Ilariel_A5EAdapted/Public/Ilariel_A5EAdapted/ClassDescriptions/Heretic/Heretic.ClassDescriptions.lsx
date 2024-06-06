@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="330"/>
+	<region id="ClassDescriptions">
+		<node id="root">
+			<children>
+				<node id="ClassDescription">
+					<attribute id="BaseHp" type="int32" value="8" />
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Warlock" />
+					<attribute id="Description" type="TranslatedString" handle="h0c39db88gf251g49f6g9637g1836e2528fd1" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he4d58871gbb4bg4e8fgbe41g9419538d6dbc" version="1" />
+					<attribute id="HpPerLevel" type="int32" value="5" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="Name" type="FixedString" value="ILHeretic" />
+					<attribute id="PrimaryAbility" type="uint8" value="6" />
+					<attribute id="ProgressionTableUUID" type="guid" value="75ef8af8-ff1b-4428-ba55-88b630497a48" />
+					<attribute id="SoundClassType" type="FixedString" value="Warlock" />
+					<attribute id="SpellCastingAbility" type="uint8" value="6" />
+					<attribute id="UUID" type="guid" value="c5f93e99-0d90-4d06-81c4-8a806123d6d5" />
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="5804f55a-93f7-4281-9512-8d548a9e2a22" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
