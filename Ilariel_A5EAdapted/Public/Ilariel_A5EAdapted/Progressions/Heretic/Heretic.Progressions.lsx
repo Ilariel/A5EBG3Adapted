@@ -11,6 +11,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="75ef8af8-ff1b-4428-ba55-88b630497a48"/>
                     <attribute id="UUID" type="guid" value="ecbec5e6-ec85-4d8f-9441-bcf8be73f9c8"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
                     <children>
                         <node id="SubClasses">
                             <children>
@@ -25,3 +26,4 @@
         </node>
     </region>
 </save>
+
