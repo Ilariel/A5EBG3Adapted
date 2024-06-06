@@ -5,10 +5,10 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Wisdom;Constitution"/>
+                    <attribute id="Add" type="LSString" value="Charisma;Constitution"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
-                    <attribute id="TableUUID" type="guid" value="0f0516b3-d5c4-4c53-86fb-bd2b5208f1b0"/>
+                    <attribute id="TableUUID" type="guid" value="75ef8af8-ff1b-4428-ba55-88b630497a48"/>
                     <attribute id="UUID" type="guid" value="bc8b5ba7-85fc-4e64-80d4-475f6c7b6f5d"/>
                 </node>
             </children>

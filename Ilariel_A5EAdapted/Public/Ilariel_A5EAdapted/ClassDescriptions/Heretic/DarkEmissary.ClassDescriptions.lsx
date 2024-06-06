@@ -13,10 +13,10 @@
 					<attribute id="HpPerLevel" type="int32" value="5" />
 					<attribute id="LearningStrategy" type="uint8" value="1" />
 					<attribute id="Name" type="FixedString" value="ILDarkEmissary" />
-					<attribute id="PrimaryAbility" type="uint8" value="5" />
+					<attribute id="PrimaryAbility" type="uint8" value="6" />
 					<attribute id="ProgressionTableUUID" type="guid" value="0f0516b3-d5c4-4c53-86fb-bd2b5208f1b0" />
 					<attribute id="SoundClassType" type="FixedString" value="Warlock" />
-					<attribute id="SpellCastingAbility" type="uint8" value="5" />
+					<attribute id="SpellCastingAbility" type="uint8" value="6" />
 					<attribute id="UUID" type="guid" value="8b893613-91a6-4735-8fd2-1a5765ecfab1" />
 					<attribute id="ParentGuid" type="guid" value="c5f93e99-0d90-4d06-81c4-8a806123d6d5" />
 				</node>
