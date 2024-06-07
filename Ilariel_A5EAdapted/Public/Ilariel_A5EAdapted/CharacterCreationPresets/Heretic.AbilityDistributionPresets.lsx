@@ -11,8 +11,9 @@
                     <attribute id="Intelligence" type="int32" value="10"/>
                     <attribute id="Strength" type="int32" value="10"/>
                     <attribute id="Wisdom" type="int32" value="10"/>
+                    <!--Heretic -->
                     <attribute id="ClassUUID" type="guid" value="c5f93e99-0d90-4d06-81c4-8a806123d6d5"/>
-                    <attribute id="UUID" type="guid" value="783f63f6-da3c-4ca3-b9e6-23bd2babe5ef"/>
+                    <attribute id="UUID" type="guid" value="be0425a6-98f8-444d-925c-6b4aeaba1f48"/>
                 </node>
             </children>
         </node>
