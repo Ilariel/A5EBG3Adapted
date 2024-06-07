@@ -1,1 +1,8 @@
+new entry "IL_HERETIC_INVOCATION_VERSATILE_BLAST_RAY"
+type "PassiveData"
+// Eldritch Ray
+data "DisplayName" "h776942bcfed245b8879155d5c4091ffb0ff4"
+data "Description" "hee3d0ee52f3245e1b6ff820093a00e69cd87"
 
+data "Icon" "Spell_Divination_SpeakWithAnimals"
+data "Boosts" "UnlockSpell(Projectile_EldritchBlast)"

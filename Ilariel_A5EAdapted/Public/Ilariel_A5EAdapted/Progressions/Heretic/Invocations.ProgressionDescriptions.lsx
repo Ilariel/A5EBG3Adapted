@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h880a3ece68da4435af47bf845f619917574f" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd20741e90c1f45b59fbc31c933502adddb19" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="75ef8af8-ff1b-4428-ba55-88b630497a48" />
+                    <attribute id="SelectorId" type="FixedString" value="ILHereticEldritchBlastChoice" />
+                    <attribute id="UUID" type="guid" value="ec95c8d5-daf1-43ff-9158-8302d783e72a" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,7 +1,7 @@
-new entry "IL_HERETIC_INVOCATION_VERSATILE_BLAST_DISTURBANCE"
+new entry "IL_HERETIC_INVOCATION_VERSATILE_BLAST_SCYTHE"
 type "PassiveData"
-// Eldritch Disturbance
-data "DisplayName" "hcc79810b0329451297cf8f94ca093a0dc94c"
+// Eldritch Scythe
+data "DisplayName" "h619e057bd6414eff836c8b86fd9899ec9a3g"
 data "Description" "hee3d0ee52f3245e1b6ff820093a00e69cd87"
 
 data "Icon" "Spell_Divination_SpeakWithAnimals"

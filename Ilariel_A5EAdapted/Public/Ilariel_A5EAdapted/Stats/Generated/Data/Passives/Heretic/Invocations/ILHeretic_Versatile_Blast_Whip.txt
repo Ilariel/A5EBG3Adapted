@@ -1,1 +1,8 @@
+new entry "IL_HERETIC_INVOCATION_VERSATILE_BLAST_WHIP"
+type "PassiveData"
+// Eldritch Whip
+data "DisplayName" "hcf7c579bfe1047ae98a2e49e2d7152dcbag6"
+data "Description" "hee3d0ee52f3245e1b6ff820093a00e69cd87"
 
+data "Icon" "Spell_Divination_SpeakWithAnimals"
+data "Boosts" "UnlockSpell(Projectile_EldritchBlast)"
